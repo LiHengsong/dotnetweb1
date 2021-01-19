@@ -1,0 +1,11 @@
+C:\Users\hengsli\Desktop\ReactL\hellobook\bin\Debug\netcoreapp2.1\hellobook.deps.json
+C:\Users\hengsli\Desktop\ReactL\hellobook\bin\Debug\netcoreapp2.1\hellobook.runtimeconfig.json
+C:\Users\hengsli\Desktop\ReactL\hellobook\bin\Debug\netcoreapp2.1\hellobook.runtimeconfig.dev.json
+C:\Users\hengsli\Desktop\ReactL\hellobook\bin\Debug\netcoreapp2.1\hellobook.dll
+C:\Users\hengsli\Desktop\ReactL\hellobook\bin\Debug\netcoreapp2.1\hellobook.pdb
+C:\Users\hengsli\Desktop\ReactL\hellobook\obj\Debug\netcoreapp2.1\hellobook.csprojAssemblyReference.cache
+C:\Users\hengsli\Desktop\ReactL\hellobook\obj\Debug\netcoreapp2.1\hellobook.csproj.CoreCompileInputs.cache
+C:\Users\hengsli\Desktop\ReactL\hellobook\obj\Debug\netcoreapp2.1\hellobook.AssemblyInfoInputs.cache
+C:\Users\hengsli\Desktop\ReactL\hellobook\obj\Debug\netcoreapp2.1\hellobook.AssemblyInfo.cs
+C:\Users\hengsli\Desktop\ReactL\hellobook\obj\Debug\netcoreapp2.1\hellobook.dll
+C:\Users\hengsli\Desktop\ReactL\hellobook\obj\Debug\netcoreapp2.1\hellobook.pdb
